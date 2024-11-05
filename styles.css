@@ -1,0 +1,28 @@
+
+header{
+    position: absolute;
+    left: 340px;
+    top: 30px;
+    color:#F7EC7D ;
+}
+h1{
+    position: relative;
+    left: 47%;
+}
+article{
+    position: relative;
+    top: 20px;
+    font-size: larger;
+}
+footer{
+    position: absolute;
+    bottom: 80px;
+    left:49% ;
+    color: #F7EC7D;
+}
+main{
+    margin-top: 16%;
+    background-image: url(https://mestre.iessanclemente.net/pluginfile.php/30450/mod_resource/content/2/donuts.png);
+    height: 400px;
+    
+}
